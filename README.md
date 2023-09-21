@@ -17,4 +17,4 @@
 
 &#128242;
 
-<img src=" "/>
+<img src="https://github.com/Thaisa-R/Projeto-1-Instagram-DevClub/blob/main/img-projeto-intagram.png?raw=true"/>
