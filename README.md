@@ -12,9 +12,3 @@
 
 &#128421;
 <img src="https://github.com/Thaisa-R/Projeto-1-Instagram-DevClub/blob/main/img1-projeto-instagram.png?raw=true"/>
-<br>
-<br>
-
-&#128242;
-
-<img src="https://github.com/Thaisa-R/Projeto-1-Instagram-DevClub/blob/main/img-projeto-intagram.png?raw=true"/>
