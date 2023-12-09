@@ -8,6 +8,7 @@
 <br>
   - Css
 <br>
+  - JavaScript
 <br>
 
 &#128421;
